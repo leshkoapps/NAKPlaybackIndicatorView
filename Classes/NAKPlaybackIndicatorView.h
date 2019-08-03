@@ -9,13 +9,13 @@
 #import <UIKit/UIKit.h>
 
 
-NSString * const kBarCount;
-NSString * const kBarWidth;
-NSString * const kBarIdleHeight;
-NSString * const kHorizontalBarSpacing;
-NSString * const kRetinaHorizontalBarSpacing;
-NSString * const kBarMinPeakHeight;
-NSString * const kBarMaxPeakHeight;
+extern NSString * const kBarCount;
+extern NSString * const kBarWidth;
+extern NSString * const kBarIdleHeight;
+extern NSString * const kHorizontalBarSpacing;
+extern NSString * const kRetinaHorizontalBarSpacing;
+extern NSString * const kBarMinPeakHeight;
+extern NSString * const kBarMaxPeakHeight;
 
 /**
  Values for the [state]([NAKPlaybackIndicatorView state]) property.
